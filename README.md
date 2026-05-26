@@ -1,4 +1,3 @@
-# file.py
 import io
 import os
 import sqlite3
